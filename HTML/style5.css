@@ -1,0 +1,42 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color:black;
+}
+h2{
+    color: brown;
+    text-align: center;
+}
+h3 ,h4{
+    color: brown;
+    text-align: center;
+}
+nav{
+    background-color:aquamarine;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+footer{
+    flex-shrink: O;
+    border-top: 1px dashed;
+    width: 100%;
+}
+
+div,h1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 20px;
+    margin: 0%;
+}
+ul li{
+
+}
+
+
