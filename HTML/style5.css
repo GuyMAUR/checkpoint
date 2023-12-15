@@ -30,6 +30,7 @@ ul{
 
 ul,li {
     padding: 2em;
+    text-decoration: underline;
 }
 ul,img{
     max-width:100% ;
